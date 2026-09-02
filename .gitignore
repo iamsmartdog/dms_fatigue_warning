@@ -1,7 +1,5 @@
 # 编译输出目录
-build/
-build_x86/
-build_monitor/
+build_vm/
 deploy_aarch64/
 
 # cmake生成文件
@@ -14,6 +12,7 @@ Makefile
 *.log
 *.tmp
 *.swp
+docs/
 
 #
 .trae/
