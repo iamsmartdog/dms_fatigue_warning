@@ -26,7 +26,7 @@
 - **单例**：`AesCrypto::instance()` 隐私加密模块
 - **生产者-消费者**：`RingBuffer<T>` 串联各级线程
 
-#结构
+##结构
 
 ```
 dms_fatigue_warning/
